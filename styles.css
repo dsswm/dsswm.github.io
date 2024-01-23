@@ -27,7 +27,7 @@ html {
   }
   
   a {
-    background-color: rgba(0, 0, 0, 0);
+    color: white;
   }
   
   a:active, a:hover {
@@ -3166,7 +3166,7 @@ html {
   
   
   a:active {
-    color: #43464d;
+    color: whitesmoke;
   }
   
   ul {
