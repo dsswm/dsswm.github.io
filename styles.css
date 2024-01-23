@@ -3161,7 +3161,7 @@ html {
   }
   
   a {
-    color: whitesmoke;
+    color: white;
     text-decoration: underline;
     transition: opacity .2s;
     display: block;
