@@ -3829,6 +3829,7 @@ html {
     align-items: start;
     justify-items: start;
     padding-bottom: 60px;
+    background-color: rgb(128, 0, 255, .2);
   }
   
   .footer-link {
